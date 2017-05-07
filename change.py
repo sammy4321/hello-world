@@ -1,5 +1,5 @@
 import cv2
-img=cv2.imread("cropped.jpg",0)
+img=cv2.imread("cropped.jpg")
 #gray=cv2.cvtColor(img.cv2.COLOR_BGR2GRAY)
 for i in range(0,28):
 	for j in range(0,28):
